@@ -1,2 +1,13 @@
-# slides.arwiththreejs
-"How to do augmented reality with three.js" slides
+# "How to Do Augmented Reality with Three.js" Slides
+
+
+
+
+
+---
+
+# TODO
+- what the demo gonna be ?
+
+## Rougth Plan
+-
